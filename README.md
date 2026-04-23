@@ -1,15 +1,16 @@
 # Business-Analyst-Portfolio-
-Professional Vision As a Computer Science Engineering student (Class of 2026) at VIT Bhopal, I specialize in bridging the gap between complex technical data and executive decision-making. My work focuses on building end-to-end analytical solutions—from raw data extraction and ETL to high-impact visual storytelling.
+The Human Behind the Data
+
+By degree, I am a Computer Engineer, but by nature, I am a Business Intelligence Translator.  I don't just see rows of numbers or blocks of code; I see the stories they tell about why a customer returns a package, how a "Superhost" wins the market, or why a specific menu item is the heartbeat of a franchise. My journey began at VIT Bhopal, where I built a solid technical foundation. However, my time at 3DGlobal IT Consulting sparked a shift in my perspective. While debugging ETRM systems, I realized that technical fixes only matter if they solve a human business problem. This led me to master the art of Technical Storytelling—the ability to take a complex SQL query and turn it into a strategy that a CEO can act on. What I bring to the table:A "Bilingual" Skillset: I speak both "Developer" and "Stakeholder." I can write the code to clean the data and then present the findings to the boardroom. Curiosity-Driven Analytics: Whether it's analyzing Spotify trends to understand artist popularity or using Tableau to map out Airbnb revenue zones, I am driven by the "Why" behind the "What." Operational Empathy: My work on the McDonald's Sales Dashboard taught me that every data point represents a real-world transaction, a real-world kitchen, and a real-world customer experience. I am a lifelong learner—holding certifications from IBM, Alex The Analyst, and AWS—and a dedicated collaborator who believes the best insights are found where data meets human behavior. 
+
 ----------------------------------------------------------------------------------------
+What I bring to the table:A "Bilingual" Skillset: I speak both "Developer" and "Stakeholder." I can write the code to clean the data and then present the findings to the boardroom. 
 
-Core Analytical Competencies
-Strategic Problem Solving: Utilizing Gap Analysis and Requirements Documentation to identify operational inefficiencies and propose data-backed solutions.
+Curiosity-Driven Analytics: Whether it's analyzing Spotify trends to understand artist popularity or using Tableau to map out Airbnb revenue zones, I am driven by the "Why" behind the "What."
 
-Business Intelligence (BI): Developing interactive, stakeholder-ready dashboards in Tableau and Power BI that track critical KPIs and revenue drivers.
+Operational Empathy: My work on the McDonald's Sales Dashboard taught me that every data point represents a real-world transaction, a real-world kitchen, and a real-world customer experience.
 
-Data Engineering: Advanced proficiency in SQL for complex data cleaning, joining disparate datasets, and ensuring data integrity for downstream analysis.
-
-Technical Storytelling: Crafting narratives that explain not just what the data says, but why it matters for business growth and ROI.
+I am a lifelong learner—holding certifications from IBM, Alex The Analyst, and AWS—and a dedicated collaborator who believes the best insights are found where data meets human behavior. 
 
 --------------------------------------------------------------------------------------------
 
