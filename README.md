@@ -16,7 +16,7 @@ Technical Storytelling: Crafting narratives that explain not just what the data 
 Portfolio Highlights
 This repository serves as a centralized hub for my key business intelligence projects:
 
-[AirBnB Market Intelligence Dashboard]: A geospatial and time-series analysis in Tableau focused on pricing elasticity and identifying the "Superhost" revenue premium.
+[[AirBnB Market Intelligence Dashboard]](https://github.com/Anupam3679/AirBnB-Market-Intelligence-Pricing-Optimization-Dashboard): A geospatial and time-series analysis in Tableau focused on pricing elasticity and identifying the "Superhost" revenue premium.
 
 [E-commerce Sales Analysis]: A Power BI solution correlating logistics performance with customer return rates to optimize Q4 supply chain strategies.
 
