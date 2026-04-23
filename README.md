@@ -18,11 +18,11 @@ This repository serves as a centralized hub for my key business intelligence pro
 
 [[AirBnB Market Intelligence Dashboard]](https://github.com/Anupam3679/AirBnB-Market-Intelligence-Pricing-Optimization-Dashboard): A geospatial and time-series analysis in Tableau focused on pricing elasticity and identifying the "Superhost" revenue premium.
 
-[E-commerce Sales Analysis]: A Power BI solution correlating logistics performance with customer return rates to optimize Q4 supply chain strategies.
+[[E-commerce Sales Analysis]](https://github.com/Anupam3679/-Ecommerce-Sales-Analysis-Dashboard): A Power BI solution correlating logistics performance with customer return rates to optimize Q4 supply chain strategies.
 
-[McDonald's Operational Performance]: An application of Pareto Analysis and Heat Maps to maximize franchise throughput and menu-mix profitability.
+[[McDonald's Operational Performance]](https://github.com/Anupam3679/MacDonalds-Sales-Dashboard): An application of Pareto Analysis and Heat Maps to maximize franchise throughput and menu-mix profitability.
 
-[Spotify Streaming Trends]: A deep dive into user engagement metrics using DAX and Power Query to visualize artist popularity and market reach.
+[[Spotify Streaming Trends]](https://github.com/Anupam3679/Spotify-Music-Trend-Analysis-): A deep dive into user engagement metrics using DAX and Power Query to visualize artist popularity and market reach.
 
 --------------------------------------------------------------------------------------------------
 
